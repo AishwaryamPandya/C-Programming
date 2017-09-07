@@ -24,10 +24,10 @@
 
 int main() // This is the main body of your code 
 
-{ // program begins in braces"curly braces".
-       // printf() displays the string inside quotation. 
+{   // program begins in braces"curly braces".
+    // printf() displays the string inside quotation. 
     printf("Hello, This is My First Code");
     return 0; // Return is used to get the value of the varibale or other data coming back from subroutine
-} // program ends in braces "curly braces"
+}   // program ends in braces "curly braces"
 
 //===================================================================//
